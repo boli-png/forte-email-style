@@ -1,6 +1,6 @@
 # Kenneth-Inspired Email Style Profile
 
-Use this profile only after the user explicitly selects Kenneth. It contains generalized patterns; never claim that a phrase is a quotation from Kenneth and never disclose source-email details.
+Use this profile for email drafting only after the user explicitly selects Kenneth. It contains generalized patterns; never claim that a phrase is a quotation from Kenneth and never disclose source-email details.
 
 ## Contents
 
@@ -22,6 +22,9 @@ Use this profile only after the user explicitly selects Kenneth. It contains gen
 - Structured under complexity: technical and commercial mail expands into background, scope, assumptions, exclusions, fees, and next steps.
 - Practical Hong Kong business English: direct, familiar, comfortable with acronyms, abbreviated dates, and selective code-switching.
 - **Thanks** is the natural close; lengthy formal sign-offs are uncommon.
+- Prefer a clear factual answer or commitment over an acknowledgement alone: **Will revise [item] accordingly**, **Please see the programme below**, or **Reply from [party] received as below** when those facts are established.
+- A compact numbered programme or issue list is natural where sequence matters. Use `1.`, `2.`, etc.; put the duration, owner, or next action beside each item.
+- Light warmth is earned through a short thank-you or **Cheers,** in an established, informal thread—not through extra enthusiasm or corporate polish.
 
 ## Mode Selection
 
@@ -29,8 +32,10 @@ Choose one mode:
 
 - **External-direct:** Simple confirmation, scheduling, attachment, introduction, follow-up, or active client thread.
 - **External-technical:** Proposal, quotation, fee, compliance, regulatory, technical, risk, assumptions, exclusions, or multiple substantive questions.
-- **Internal-direct:** All recipients are Forte colleagues. Keep it to the action, owner, and deadline.
+- **Internal-direct:** All recipients are Forte colleagues. Keep it to the action, owner, and deadline when supplied; use a compact list for multiple issues.
 - **Internal-casual:** A close-colleague context and the user explicitly requests casual, mate, playful, raw, or WhatsApp-like wording.
+
+Treat mixed internal and external recipients as external. For complex internal technical or commercial mail, keep internal-direct wording but use the relevant External-Technical structure.
 
 Never infer internal-casual from an informal thread alone.
 
@@ -43,7 +48,7 @@ For HR, performance, discipline, termination, legal, safety, compliance, commerc
 - Brisk, helpful, confident, and lightly conversational.
 - Match the formality already established in the thread.
 - Use sentence fragments only when they remain completely clear.
-- Keep most drafts between roughly 5 and 80 words unless context requires more.
+- Simple replies often need only one to three sentences. Answer all substantive points; brevity is not a word limit.
 
 ### Default Structure
 
@@ -52,9 +57,20 @@ For HR, performance, discipline, termination, legal, safety, compliance, commerc
 3. One qualification, request, or next step if needed.
 4. Optional **Thanks,**
 
+For a sequence, use a compact list when it is clearer than prose. Include only supplied durations and dependencies; keep working days versus calendar days explicit only when established. Do not imply that steps run sequentially or concurrently unless confirmed:
+
+    Hi [Name],
+
+    Please see the proposed programme below:
+    1. [Step] ([duration]).
+    2. [Step] ([duration]).
+    3. [Step] ([duration]).
+
+    Thanks,
+
 ### Phrase Bank
 
-Use selectively and correct grammar around verified facts:
+These are illustrative patterns, not mandatory phrases or quotations. Use selectively around verified facts; do not introduce commitments, availability, attachments, or recipients to match an example:
 
 - Okay, will [confirmed action].
 - Can do. Thanks.
@@ -66,8 +82,11 @@ Use selectively and correct grammar around verified facts:
 - See if the below is fine, please.
 - Please let us know your plan and timeline for a more accurate [estimate / programme].
 - Please keep us posted once completed.
-- Feel free to call me anytime.
+- Please call me [confirmed availability], if needed.
 - Keep in touch.
+- Thank you very much for the award. Will [confirmed follow-up] accordingly.
+- As advised by [confirmed source], [concise factual clarification].
+- Reply from [confirmed party] received as below.
 
 Avoid stacking several phrases in a short reply.
 
@@ -206,6 +225,10 @@ For a pure FYI forward, use **Fyi.** or **FYI @[Name].** without summarizing unv
 - Keep names, dates, times, amounts, filenames, recipients, and commitments grounded in context.
 - Do not claim an attachment exists unless context confirms it.
 - Use **please** externally; reserve **pls** for internal or an already informal active thread.
+- In an established external thread, **Hi [Name],** is the normal default; **Dear [Name],** is appropriate for a first contact, award, formal proposal, or more consequential message. A bare **Morning [Name],** is acceptable only where the active thread is already informal.
+- Use **Will [action] accordingly** for a confirmed commitment only when the action is clear from the thread; otherwise name the deliverable or change. Do not over-soften it with `we will be pleased to` or add an unnecessary assurance.
+- For a requested forward, add one neutral anchor line and preserve the supplied technical response as quoted source text. If the user requests a summary, retain attribution, qualifications, and uncertainty; do not turn third-party advice into the sender's own verified conclusion.
+- Prefer `As discussed` to `As spoken` only when a prior discussion is established. Normalize presentation without changing numbers, currencies, dates, units, or meaning; flag factual inconsistencies under the shared editing rules.
 - Do not overuse sir, colloquial honorifics, fyi, exclamation marks, or copied-in participants.
 - Reuse a relationship-specific honorific only when the thread already establishes it.
 - Avoid generic openings, repeated summaries, elaborate closings, excessive apologies, and unnecessary background.

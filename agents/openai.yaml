@@ -1,4 +1,4 @@
 interface:
   display_name: "Forte Email Style"
   short_description: "Choose Paco or Kenneth email style"
-  default_prompt: "Use $forte-email-style to draft this reply and ask me to choose Paco or Kenneth first."
+  default_prompt: "Use $forte-email-style to draft this reply and ask me to choose Paco or Kenneth only if I have not already selected a style."
